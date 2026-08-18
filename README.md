@@ -1,6 +1,9 @@
 # 🌾 FarmChain AI
 
 > From Farm to Market — Verified, Transparent, and Fair.
+> ## 🚀 Live Demo
+
+👉 [Visit FarmChain AI](https://farmchain-ai-tau.vercel.app/)
 
 FarmChain AI is an AI + Blockchain-powered agricultural supply chain platform
 designed to improve transparency, quality verification, traceability, and
